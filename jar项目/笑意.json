@@ -1,4 +1,4 @@
-﻿{"spider":"./spider.jar",
+{"spider":"./spider.jar",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[{"key":"豆豆",
 "name":"笑意专线",
@@ -19,6 +19,30 @@
 "filterable":1,
 "ext":"http://mpanso.com/"
 },
+    { 
+              "key": "csp_XYQHiker_‍dyx", 
+                    "name": "盒盒┃4K磁力", 
+                          "type": 3, 
+                                "api": "csp_XYQHiker", 
+                                      "searchable": 1, 
+                                            "quickSearch": 1, 
+                                                  "filterable": 1, 
+                                                        "jar": "./lib/spider.txt",
+                                                              "ext": "./lib/dyg.json"    
+    }, 
+        {
+                  "key": "Gitcafe",
+                        "name": "咖咖┃4K磁力",
+                              "type": 3,
+                                    "api": "csp_Paper",
+                                          "searchable": 1,
+                                                "quickSearch": 1,
+                                                      "filterable": 1,
+                                                            "jar": "./lib/HeChengChaXiu.jar",
+                                                                  "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+        },
+        }
+    }
 {"key":"贱贱",
 "name":"🧲荐片P2P",
 "jar":"./cc.jar",
