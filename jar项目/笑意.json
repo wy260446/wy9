@@ -22,7 +22,7 @@
  {
            "key": "量子资源",
                  "name": "量子｜采集",
-                       "jar":"https://codeberg.org/2607106777/999/raw/branch/main/jar目录/NZ.jar",
+                       "jar":"./NZ.jar",
                              "type": 1,
                                    "api": "https://cj.lziapi.com/api.php/provide/vod/",
                                          "searchable": 1,
@@ -55,7 +55,18 @@
                                                                                                                                                                                                                                                                  "欧美综艺"
                                                      ]
  },
-                                                     
+    { 
+              "key": "csp_XYQHiker_‍dyx", 
+                    "name": "盒盒┃磁力4K", 
+                          "type": 3, 
+                                "api": "csp_XYQHiker", 
+                                      "searchable": 1, 
+                                            "quickSearch": 1, 
+                                                  "filterable": 1, 
+                                                        "jar": "./lib/spider.txt",
+                                                              "ext": "./lib/dyg.json"    
+    }, 
+                                             
 {"key":"贱贱",
 "name":"🧲荐片P2P",
 "jar":"./cc.jar",
