@@ -19,6 +19,7 @@
 "filterable":1,
 "ext":"http://mpanso.com/"
 },
+
   {
             "key": "配置中心",
                   "name": "🚀弹幕┃高级┃设置",
@@ -33,7 +34,25 @@
                                                                                 "ratio": 1.597
                                                             }
   },
-                                                            
+     {
+                 "key": "push_agent",
+                         "name": "🛴手机┃推送",
+                                 "type": 3,
+                                         "api": "csp_Push",
+                                                 "searchable": 0,
+                                                         "filterable": 0,
+                                                                 "changeable": 0,
+                                                                         "jar": "https://gitee.com/bjx1ng/001/raw/master/spider.jar",
+                                                                                 "ext": {
+                                                                                                 "token": "./token.txt",
+                                                                                                             "cookie": "./quark_cookie.txt",
+                                                                                                                         "uc_cookie": "3AlrhWkJZypiqA1l-yQZh52Q;__uid=AATnyjuGiNX028FC3um6P7Fp;__pus=8e7e845ba2dec58beec27e77392f89c7AAQ6Y3xao04s06nyThAFH8Ehw/zj46QMpgqCYVFlwXawk3yWvFEyLsEObkbP5uQgsU5jjyAglK5wloPLbGGJpd/4;__kp=99f7ce20-9283-11ef-9d84-6b4791befde0;__kps=AATnyjuGiNX028FC3um6P7Fp;__ktd=Qhzoamg+LUE0AaOCfcHSGg==;UDRIVE_TRANSFER_SESS=KWKs_0N3ww3mR-62i4c1w-ExZXXNsUvFj_fkdasWSrszN1qn1pw4avjOckAqWkhtxKqGP5t-RHxgXFE8LzHAsy3IzEZxnIGRusdPD-6lAxK55BgUIoO2cXGRfzQd2VXgFj_9xp3MLLbCD56Ki0M9IfrOEIGI_ZyfNo6ChNOJC664mDtsJEHbrn9JUrStjXDN",
+                                                                                                                                     "danmu": true
+                                                                                
+                                "timeout": 5},
+    
+                                                                                 
+                                               
   
 {"key":"贱贱",
 "name":"🧲荐片P2P",
