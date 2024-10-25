@@ -8,7 +8,7 @@
 "quickSearch":0,
 "filterable":0},
 {"key":"玩偶","name":"🧸玩偶哥哥",
-"type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+"type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"true"}},
 {
 "key":"csp_Netfixtv",
 "name":"👑至臻4K",
