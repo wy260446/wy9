@@ -19,17 +19,31 @@
 "filterable":1,
 "ext":"http://mpanso.com/"
 },
-{"key":"厂长",
-"name":"厂长影视4K",
-"jar":"./cc.jar",
-"type":3,
-"api":"csp_NewCz",
-"timeout":5,
-"playerType":2,
-"searchable":1,
-"quickSearch":1,
-"changeable":1,
-"ext":"https://www.czzy77.com"},
+{
+      "key": "厂长弹幕",
+        "name": "💯 | 厂长弹幕【⚡】",
+          "type": 3,
+            "api": "csp_Czzy",
+              "searchable": 1,
+                "quickSearch": 1,
+                  "filterable": 1,
+                    "ext": {
+                            "danmu": true
+                    },
+                      "jar": "/厂长.jar"
+},
+{
+      "key": "csp_瓜子",
+        "name": "💯丨瓜子秒播【⚡】",
+          "api": "csp_Gz360",
+            "jar": "/厂长.jar",
+              "type": 3,
+                "searchable": 1,
+                  "playerType": 2,
+                    "timeout": 30,
+                      "changeable": 0 
+},
+
 {"key":"贱贱",
 "name":"🧲荐片P2P",
 "jar":"./cc.jar",
