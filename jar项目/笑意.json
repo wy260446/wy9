@@ -30,13 +30,13 @@
                     "ext": {
                             "danmu": true
                     },
-                      "jar": "/厂长.jar"
+                      "jar": "./厂长.jar"
 },
 {
       "key": "csp_瓜子",
         "name": "💯丨瓜子秒播【⚡】",
           "api": "csp_Gz360",
-            "jar": "/厂长.jar",
+            "jar": "./厂长.jar",
               "type": 3,
                 "searchable": 1,
                   "playerType": 2,
