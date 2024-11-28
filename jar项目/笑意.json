@@ -52,8 +52,8 @@
 "quickSearch":1,
 "changeable":1,
 "playerType":"1",
-"api":"https://gitee.com/wy260710/999/raw/master/js%E9%A1%B9%E7%9B%AE/drpy2.min.js",
-"ext":"https://gitee.com/wy260710/999/raw/master/js%E9%A1%B9%E7%9B%AE/jp.js"},
+"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wy260446/wy9/refs/heads/master/js%E9%A1%B9%E7%9B%AE/drpy2.min.js",
+"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wy260446/wy9/refs/heads/master/js%E9%A1%B9%E7%9B%AE/jp.js"},
  {
       "key": "量子资源",
       "name": "量子｜采集",
